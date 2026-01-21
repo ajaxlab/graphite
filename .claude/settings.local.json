@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bower install)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
